@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EY.US.RecordAddin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IpEngID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Eng Metadata ID</Value>
+    </Setting>
+    <Setting Name="OpClientName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Client Name</Value>
+    </Setting>
+    <Setting Name="OpEngName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Eng Name</Value>
+    </Setting>
+    <Setting Name="OpEngID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Eng ID</Value>
+    </Setting>
+    <Setting Name="OpClientID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Client ID</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
